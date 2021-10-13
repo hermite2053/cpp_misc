@@ -1,1 +1,5 @@
+# .gitignore
+# @author LM137(hermite2053)
+
 .DS_Store
+a.out
