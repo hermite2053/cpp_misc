@@ -5,7 +5,6 @@
 */
 
 #include <iostream>
-//#include <cstdint>
 #include "bit_acc.hpp"
 
 int main(void)
